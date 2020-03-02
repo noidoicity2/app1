@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+li {
+    color:red;
+    list-style: none;
+}
+h2 {
+    color: royalblue    ;
+    font-size: 40px;
+}
+h1  {
+   text-align: center;
+   color: tomato;
+   font-size: 50px;
+}
+.container {
+    background-color:silver;
+    border-radius: 5px;
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+img {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+  margin-right: auto;
+}
+.sp1 {
+    color: brown;
+    font-size: 2rem;
+}
+
+.sp2 {
+    color: cornflowerblue;
+    font-size: 2rem;
+}
